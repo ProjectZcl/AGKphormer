@@ -1,0 +1,233 @@
+/root/miniconda3/bin/python3 /tmp/pycharm_project_331/code/main.py
+seed=0, evaluating met-disease....
+------this is 1th cross validation------
+Epoch: 1 Train Loss: 0.7314 Acc: 0.4995 Pre: 0.4997 Recall: 0.9989 F1: 0.6662 Train AUC: 0.3705 Val AUC: 0.3691 Val PRC: 0.3971 Time: 9.06
+Epoch: 2 Train Loss: 0.9476 Acc: 0.4995 Pre: 0.4997 Recall: 0.9989 F1: 0.6662 Train AUC: 0.4004 Val AUC: 0.3990 Val PRC: 0.4136 Time: 10.10
+Epoch: 3 Train Loss: 0.6668 Acc: 0.6691 Pre: 0.6069 Recall: 0.9601 F1: 0.7437 Train AUC: 0.7624 Val AUC: 0.7455 Val PRC: 0.6985 Time: 9.90
+Epoch: 4 Train Loss: 0.7898 Acc: 0.6166 Pre: 0.5796 Recall: 0.8487 F1: 0.6888 Train AUC: 0.5702 Val AUC: 0.5808 Val PRC: 0.4988 Time: 10.03
+Epoch: 5 Train Loss: 0.5571 Acc: 0.7327 Pre: 0.6677 Recall: 0.9265 F1: 0.7761 Train AUC: 0.8004 Val AUC: 0.7900 Val PRC: 0.7156 Time: 9.69
+Epoch: 6 Train Loss: 0.4465 Acc: 0.8277 Pre: 0.7826 Recall: 0.9076 F1: 0.8405 Train AUC: 0.8833 Val AUC: 0.8819 Val PRC: 0.8392 Time: 10.39
+Epoch: 7 Train Loss: 0.4598 Acc: 0.8330 Pre: 0.8132 Recall: 0.8645 F1: 0.8381 Train AUC: 0.9075 Val AUC: 0.8996 Val PRC: 0.8868 Time: 10.03
+Epoch: 8 Train Loss: 0.5581 Acc: 0.8151 Pre: 0.7799 Recall: 0.8782 F1: 0.8261 Train AUC: 0.8996 Val AUC: 0.8921 Val PRC: 0.8626 Time: 9.94
+Epoch: 9 Train Loss: 0.3691 Acc: 0.8414 Pre: 0.8180 Recall: 0.8782 F1: 0.8470 Train AUC: 0.9167 Val AUC: 0.9175 Val PRC: 0.9214 Time: 10.23
+Epoch: 10 Train Loss: 0.6017 Acc: 0.7306 Pre: 0.6622 Recall: 0.9412 F1: 0.7774 Train AUC: 0.8107 Val AUC: 0.8164 Val PRC: 0.8183 Time: 10.19
+Epoch: 11 Train Loss: 0.4287 Acc: 0.8813 Pre: 0.8750 Recall: 0.8897 F1: 0.8823 Train AUC: 0.9339 Val AUC: 0.9305 Val PRC: 0.8905 Time: 10.40
+Epoch: 12 Train Loss: 0.4143 Acc: 0.8550 Pre: 0.7975 Recall: 0.9517 F1: 0.8678 Train AUC: 0.9044 Val AUC: 0.9094 Val PRC: 0.8448 Time: 10.24
+Epoch: 13 Train Loss: 0.3821 Acc: 0.8477 Pre: 0.8405 Recall: 0.8582 F1: 0.8493 Train AUC: 0.9175 Val AUC: 0.9128 Val PRC: 0.8709 Time: 10.02
+Epoch: 14 Train Loss: 0.3762 Acc: 0.8782 Pre: 0.8564 Recall: 0.9086 F1: 0.8818 Train AUC: 0.9559 Val AUC: 0.9483 Val PRC: 0.9433 Time: 10.19
+Epoch: 15 Train Loss: 0.3374 Acc: 0.8824 Pre: 0.8480 Recall: 0.9317 F1: 0.8879 Train AUC: 0.9584 Val AUC: 0.9524 Val PRC: 0.9479 Time: 10.26
+Epoch: 16 Train Loss: 0.3549 Acc: 0.8561 Pre: 0.8553 Recall: 0.8571 F1: 0.8562 Train AUC: 0.9278 Val AUC: 0.9227 Val PRC: 0.9274 Time: 10.07
+Epoch: 17 Train Loss: 0.2921 Acc: 0.8782 Pre: 0.8614 Recall: 0.9013 F1: 0.8809 Train AUC: 0.9487 Val AUC: 0.9469 Val PRC: 0.9401 Time: 10.00
+Epoch: 18 Train Loss: 0.3210 Acc: 0.8908 Pre: 0.8804 Recall: 0.9044 F1: 0.8922 Train AUC: 0.9521 Val AUC: 0.9472 Val PRC: 0.9395 Time: 9.86
+Epoch: 19 Train Loss: 0.2956 Acc: 0.8829 Pre: 0.8549 Recall: 0.9223 F1: 0.8873 Train AUC: 0.9510 Val AUC: 0.9487 Val PRC: 0.9324 Time: 9.92
+Epoch: 20 Train Loss: 0.2941 Acc: 0.8750 Pre: 0.8535 Recall: 0.9055 F1: 0.8787 Train AUC: 0.9462 Val AUC: 0.9435 Val PRC: 0.9224 Time: 9.69
+Epoch: 21 Train Loss: 0.2832 Acc: 0.8803 Pre: 0.8584 Recall: 0.9107 F1: 0.8838 Train AUC: 0.9495 Val AUC: 0.9461 Val PRC: 0.9264 Time: 10.01
+Epoch: 22 Train Loss: 0.2787 Acc: 0.8934 Pre: 0.8955 Recall: 0.8908 F1: 0.8931 Train AUC: 0.9556 Val AUC: 0.9540 Val PRC: 0.9395 Time: 9.98
+Epoch: 23 Train Loss: 0.2771 Acc: 0.8897 Pre: 0.8681 Recall: 0.9191 F1: 0.8929 Train AUC: 0.9574 Val AUC: 0.9534 Val PRC: 0.9459 Time: 10.11
+Epoch: 24 Train Loss: 0.2686 Acc: 0.8965 Pre: 0.8734 Recall: 0.9275 F1: 0.8996 Train AUC: 0.9571 Val AUC: 0.9543 Val PRC: 0.9477 Time: 9.78
+Epoch: 25 Train Loss: 0.3090 Acc: 0.8771 Pre: 0.8452 Recall: 0.9233 F1: 0.8825 Train AUC: 0.9452 Val AUC: 0.9419 Val PRC: 0.9328 Time: 9.70
+Epoch: 26 Train Loss: 0.3484 Acc: 0.8913 Pre: 0.8714 Recall: 0.9181 F1: 0.8941 Train AUC: 0.9516 Val AUC: 0.9496 Val PRC: 0.9493 Time: 9.85
+Epoch: 27 Train Loss: 0.2724 Acc: 0.8950 Pre: 0.8730 Recall: 0.9244 F1: 0.8980 Train AUC: 0.9585 Val AUC: 0.9570 Val PRC: 0.9514 Time: 9.86
+Epoch: 28 Train Loss: 0.3047 Acc: 0.8897 Pre: 0.8681 Recall: 0.9191 F1: 0.8929 Train AUC: 0.9438 Val AUC: 0.9450 Val PRC: 0.9233 Time: 9.80
+Epoch: 29 Train Loss: 0.2891 Acc: 0.8971 Pre: 0.8873 Recall: 0.9097 F1: 0.8983 Train AUC: 0.9510 Val AUC: 0.9509 Val PRC: 0.9351 Time: 9.91
+Epoch: 30 Train Loss: 0.2875 Acc: 0.8976 Pre: 0.8827 Recall: 0.9170 F1: 0.8995 Train AUC: 0.9576 Val AUC: 0.9554 Val PRC: 0.9445 Time: 10.11
+Epoch: 31 Train Loss: 0.2704 Acc: 0.8992 Pre: 0.8846 Recall: 0.9181 F1: 0.9010 Train AUC: 0.9619 Val AUC: 0.9570 Val PRC: 0.9543 Time: 9.96
+Epoch: 32 Train Loss: 0.2595 Acc: 0.8965 Pre: 0.8928 Recall: 0.9013 F1: 0.8970 Train AUC: 0.9597 Val AUC: 0.9574 Val PRC: 0.9552 Time: 9.77
+Epoch: 33 Train Loss: 0.2745 Acc: 0.8965 Pre: 0.8794 Recall: 0.9191 F1: 0.8988 Train AUC: 0.9551 Val AUC: 0.9546 Val PRC: 0.9509 Time: 9.92
+Epoch: 34 Train Loss: 0.2591 Acc: 0.8965 Pre: 0.8904 Recall: 0.9044 F1: 0.8973 Train AUC: 0.9600 Val AUC: 0.9573 Val PRC: 0.9565 Time: 10.01
+Epoch: 35 Train Loss: 0.2758 Acc: 0.8965 Pre: 0.8794 Recall: 0.9191 F1: 0.8988 Train AUC: 0.9601 Val AUC: 0.9552 Val PRC: 0.9508 Time: 9.82
+Epoch: 36 Train Loss: 0.2578 Acc: 0.8976 Pre: 0.8751 Recall: 0.9275 F1: 0.9006 Train AUC: 0.9618 Val AUC: 0.9589 Val PRC: 0.9552 Time: 9.74
+Epoch: 37 Train Loss: 0.2588 Acc: 0.8934 Pre: 0.8764 Recall: 0.9160 F1: 0.8957 Train AUC: 0.9583 Val AUC: 0.9549 Val PRC: 0.9436 Time: 9.92
+Epoch: 38 Train Loss: 0.2579 Acc: 0.8913 Pre: 0.8744 Recall: 0.9139 F1: 0.8937 Train AUC: 0.9588 Val AUC: 0.9557 Val PRC: 0.9423 Time: 9.90
+Epoch: 39 Train Loss: 0.2476 Acc: 0.8976 Pre: 0.8819 Recall: 0.9181 F1: 0.8996 Train AUC: 0.9646 Val AUC: 0.9579 Val PRC: 0.9521 Time: 10.03
+Epoch: 40 Train Loss: 0.2556 Acc: 0.8976 Pre: 0.8751 Recall: 0.9275 F1: 0.9006 Train AUC: 0.9617 Val AUC: 0.9597 Val PRC: 0.9550 Time: 9.77
+Epoch: 41 Train Loss: 0.2510 Acc: 0.8965 Pre: 0.8817 Recall: 0.9160 F1: 0.8985 Train AUC: 0.9628 Val AUC: 0.9602 Val PRC: 0.9585 Time: 9.85
+Epoch: 42 Train Loss: 0.2566 Acc: 0.8971 Pre: 0.8757 Recall: 0.9254 F1: 0.8999 Train AUC: 0.9635 Val AUC: 0.9598 Val PRC: 0.9617 Time: 9.80
+Epoch: 43 Train Loss: 0.2511 Acc: 0.9039 Pre: 0.8880 Recall: 0.9244 F1: 0.9058 Train AUC: 0.9612 Val AUC: 0.9618 Val PRC: 0.9601 Time: 9.83
+Epoch: 44 Train Loss: 0.2711 Acc: 0.9044 Pre: 0.8929 Recall: 0.9191 F1: 0.9058 Train AUC: 0.9552 Val AUC: 0.9537 Val PRC: 0.9444 Time: 9.70
+Epoch: 45 Train Loss: 0.2597 Acc: 0.8986 Pre: 0.8861 Recall: 0.9149 F1: 0.9003 Train AUC: 0.9634 Val AUC: 0.9619 Val PRC: 0.9616 Time: 9.76
+Epoch: 46 Train Loss: 0.2735 Acc: 0.8960 Pre: 0.8863 Recall: 0.9086 F1: 0.8973 Train AUC: 0.9632 Val AUC: 0.9589 Val PRC: 0.9612 Time: 9.81
+Epoch: 47 Train Loss: 0.2771 Acc: 0.8934 Pre: 0.8913 Recall: 0.8960 F1: 0.8937 Train AUC: 0.9535 Val AUC: 0.9525 Val PRC: 0.9409 Time: 10.24
+Epoch: 48 Train Loss: 0.2553 Acc: 0.8971 Pre: 0.8865 Recall: 0.9107 F1: 0.8984 Train AUC: 0.9609 Val AUC: 0.9563 Val PRC: 0.9379 Time: 10.12
+Epoch: 49 Train Loss: 0.2561 Acc: 0.8992 Pre: 0.8762 Recall: 0.9296 F1: 0.9021 Train AUC: 0.9645 Val AUC: 0.9619 Val PRC: 0.9577 Time: 9.94
+Epoch: 50 Train Loss: 0.2688 Acc: 0.8997 Pre: 0.8801 Recall: 0.9254 F1: 0.9022 Train AUC: 0.9627 Val AUC: 0.9581 Val PRC: 0.9582 Time: 9.69
+Epoch: 51 Train Loss: 0.2360 Acc: 0.8997 Pre: 0.8809 Recall: 0.9244 F1: 0.9021 Train AUC: 0.9667 Val AUC: 0.9607 Val PRC: 0.9519 Time: 9.72
+Epoch: 52 Train Loss: 0.2633 Acc: 0.8976 Pre: 0.8947 Recall: 0.9013 F1: 0.8980 Train AUC: 0.9571 Val AUC: 0.9551 Val PRC: 0.9413 Time: 9.67
+Epoch: 53 Train Loss: 0.2478 Acc: 0.9023 Pre: 0.8940 Recall: 0.9128 F1: 0.9033 Train AUC: 0.9631 Val AUC: 0.9614 Val PRC: 0.9535 Time: 9.77
+Epoch: 54 Train Loss: 0.2419 Acc: 0.9007 Pre: 0.8826 Recall: 0.9244 F1: 0.9030 Train AUC: 0.9662 Val AUC: 0.9623 Val PRC: 0.9623 Time: 9.88
+Epoch: 55 Train Loss: 0.2546 Acc: 0.9007 Pre: 0.8873 Recall: 0.9181 F1: 0.9024 Train AUC: 0.9660 Val AUC: 0.9612 Val PRC: 0.9621 Time: 9.97
+Epoch: 56 Train Loss: 0.2503 Acc: 0.9034 Pre: 0.8967 Recall: 0.9118 F1: 0.9042 Train AUC: 0.9628 Val AUC: 0.9621 Val PRC: 0.9617 Time: 9.67
+Epoch: 57 Train Loss: 0.2497 Acc: 0.9028 Pre: 0.8793 Recall: 0.9338 F1: 0.9058 Train AUC: 0.9624 Val AUC: 0.9600 Val PRC: 0.9553 Time: 9.85
+Epoch: 58 Train Loss: 0.2383 Acc: 0.8992 Pre: 0.8612 Recall: 0.9517 F1: 0.9042 Train AUC: 0.9665 Val AUC: 0.9646 Val PRC: 0.9637 Time: 9.67
+Epoch: 59 Train Loss: 0.2650 Acc: 0.9007 Pre: 0.8865 Recall: 0.9191 F1: 0.9025 Train AUC: 0.9654 Val AUC: 0.9624 Val PRC: 0.9618 Time: 9.72
+Epoch: 60 Train Loss: 0.2459 Acc: 0.8992 Pre: 0.8854 Recall: 0.9170 F1: 0.9009 Train AUC: 0.9629 Val AUC: 0.9611 Val PRC: 0.9550 Time: 9.84
+Epoch: 61 Train Loss: 0.2516 Acc: 0.8992 Pre: 0.8792 Recall: 0.9254 F1: 0.9017 Train AUC: 0.9624 Val AUC: 0.9634 Val PRC: 0.9578 Time: 9.80
+Epoch: 62 Train Loss: 0.2412 Acc: 0.9039 Pre: 0.8872 Recall: 0.9254 F1: 0.9059 Train AUC: 0.9665 Val AUC: 0.9641 Val PRC: 0.9617 Time: 9.88
+Epoch: 63 Train Loss: 0.2478 Acc: 0.9007 Pre: 0.8715 Recall: 0.9401 F1: 0.9045 Train AUC: 0.9645 Val AUC: 0.9634 Val PRC: 0.9623 Time: 9.91
+Epoch: 64 Train Loss: 0.2563 Acc: 0.8981 Pre: 0.8708 Recall: 0.9349 F1: 0.9017 Train AUC: 0.9653 Val AUC: 0.9611 Val PRC: 0.9627 Time: 9.84
+Epoch: 65 Train Loss: 0.2265 Acc: 0.9007 Pre: 0.8962 Recall: 0.9065 F1: 0.9013 Train AUC: 0.9687 Val AUC: 0.9620 Val PRC: 0.9545 Time: 9.84
+Epoch: 66 Train Loss: 0.2687 Acc: 0.9034 Pre: 0.8951 Recall: 0.9139 F1: 0.9044 Train AUC: 0.9578 Val AUC: 0.9560 Val PRC: 0.9413 Time: 9.99
+Epoch: 67 Train Loss: 0.2361 Acc: 0.9060 Pre: 0.8884 Recall: 0.9286 F1: 0.9081 Train AUC: 0.9675 Val AUC: 0.9661 Val PRC: 0.9669 Time: 10.03
+Epoch: 68 Train Loss: 0.2626 Acc: 0.9023 Pre: 0.8924 Recall: 0.9149 F1: 0.9035 Train AUC: 0.9649 Val AUC: 0.9617 Val PRC: 0.9636 Time: 9.77
+Epoch: 69 Train Loss: 0.2353 Acc: 0.9028 Pre: 0.8824 Recall: 0.9296 F1: 0.9054 Train AUC: 0.9678 Val AUC: 0.9660 Val PRC: 0.9660 Time: 9.90
+Epoch: 70 Train Loss: 0.2387 Acc: 0.9076 Pre: 0.9084 Recall: 0.9065 F1: 0.9075 Train AUC: 0.9677 Val AUC: 0.9636 Val PRC: 0.9591 Time: 9.82
+Epoch: 71 Train Loss: 0.2302 Acc: 0.9028 Pre: 0.8862 Recall: 0.9244 F1: 0.9049 Train AUC: 0.9687 Val AUC: 0.9635 Val PRC: 0.9570 Time: 10.02
+Epoch: 72 Train Loss: 0.2397 Acc: 0.8981 Pre: 0.8723 Recall: 0.9328 F1: 0.9015 Train AUC: 0.9671 Val AUC: 0.9649 Val PRC: 0.9650 Time: 9.64
+Epoch: 73 Train Loss: 0.2497 Acc: 0.9023 Pre: 0.8973 Recall: 0.9086 F1: 0.9029 Train AUC: 0.9699 Val AUC: 0.9643 Val PRC: 0.9654 Time: 9.91
+Epoch: 74 Train Loss: 0.2481 Acc: 0.9013 Pre: 0.8874 Recall: 0.9191 F1: 0.9030 Train AUC: 0.9626 Val AUC: 0.9625 Val PRC: 0.9584 Time: 9.76
+Epoch: 75 Train Loss: 0.2429 Acc: 0.9044 Pre: 0.8881 Recall: 0.9254 F1: 0.9064 Train AUC: 0.9657 Val AUC: 0.9610 Val PRC: 0.9568 Time: 10.14
+Epoch: 76 Train Loss: 0.2393 Acc: 0.9044 Pre: 0.8835 Recall: 0.9317 F1: 0.9070 Train AUC: 0.9680 Val AUC: 0.9656 Val PRC: 0.9671 Time: 9.75
+Epoch: 77 Train Loss: 0.2394 Acc: 0.8992 Pre: 0.8755 Recall: 0.9307 F1: 0.9022 Train AUC: 0.9680 Val AUC: 0.9653 Val PRC: 0.9673 Time: 9.89
+Epoch: 78 Train Loss: 0.2289 Acc: 0.9065 Pre: 0.8941 Recall: 0.9223 F1: 0.9080 Train AUC: 0.9699 Val AUC: 0.9668 Val PRC: 0.9678 Time: 9.84
+Epoch: 79 Train Loss: 0.2506 Acc: 0.9018 Pre: 0.8883 Recall: 0.9191 F1: 0.9035 Train AUC: 0.9625 Val AUC: 0.9612 Val PRC: 0.9558 Time: 9.91
+Epoch: 80 Train Loss: 0.2478 Acc: 0.9049 Pre: 0.9045 Recall: 0.9055 F1: 0.9050 Train AUC: 0.9628 Val AUC: 0.9638 Val PRC: 0.9606 Time: 9.88
+Epoch: 81 Train Loss: 0.2585 Acc: 0.8992 Pre: 0.8878 Recall: 0.9139 F1: 0.9006 Train AUC: 0.9682 Val AUC: 0.9631 Val PRC: 0.9653 Time: 9.76
+Epoch: 82 Train Loss: 0.2377 Acc: 0.9013 Pre: 0.8760 Recall: 0.9349 F1: 0.9045 Train AUC: 0.9690 Val AUC: 0.9656 Val PRC: 0.9672 Time: 9.68
+Epoch: 83 Train Loss: 0.2445 Acc: 0.9081 Pre: 0.9043 Recall: 0.9128 F1: 0.9085 Train AUC: 0.9648 Val AUC: 0.9671 Val PRC: 0.9657 Time: 9.73
+Epoch: 84 Train Loss: 0.2429 Acc: 0.9086 Pre: 0.9165 Recall: 0.8992 F1: 0.9077 Train AUC: 0.9670 Val AUC: 0.9646 Val PRC: 0.9613 Time: 9.43
+Epoch: 85 Train Loss: 0.2250 Acc: 0.9070 Pre: 0.9041 Recall: 0.9107 F1: 0.9074 Train AUC: 0.9713 Val AUC: 0.9681 Val PRC: 0.9681 Time: 9.59
+Epoch: 86 Train Loss: 0.2658 Acc: 0.8992 Pre: 0.8901 Recall: 0.9107 F1: 0.9003 Train AUC: 0.9652 Val AUC: 0.9634 Val PRC: 0.9653 Time: 9.68
+Epoch: 87 Train Loss: 0.2312 Acc: 0.9076 Pre: 0.8865 Recall: 0.9349 F1: 0.9100 Train AUC: 0.9701 Val AUC: 0.9677 Val PRC: 0.9684 Time: 9.87
+Epoch: 88 Train Loss: 0.2483 Acc: 0.8997 Pre: 0.8824 Recall: 0.9223 F1: 0.9019 Train AUC: 0.9633 Val AUC: 0.9629 Val PRC: 0.9587 Time: 9.67
+Epoch: 89 Train Loss: 0.2369 Acc: 0.9070 Pre: 0.8887 Recall: 0.9307 F1: 0.9092 Train AUC: 0.9666 Val AUC: 0.9660 Val PRC: 0.9625 Time: 9.77
+Epoch: 90 Train Loss: 0.2376 Acc: 0.9034 Pre: 0.8810 Recall: 0.9328 F1: 0.9061 Train AUC: 0.9705 Val AUC: 0.9679 Val PRC: 0.9689 Time: 9.94
+Epoch: 91 Train Loss: 0.2299 Acc: 0.9018 Pre: 0.8791 Recall: 0.9317 F1: 0.9046 Train AUC: 0.9715 Val AUC: 0.9682 Val PRC: 0.9690 Time: 9.84
+Epoch: 92 Train Loss: 0.2346 Acc: 0.9070 Pre: 0.9032 Recall: 0.9118 F1: 0.9075 Train AUC: 0.9688 Val AUC: 0.9682 Val PRC: 0.9666 Time: 9.91
+Epoch: 93 Train Loss: 0.2320 Acc: 0.9097 Pre: 0.8931 Recall: 0.9307 F1: 0.9115 Train AUC: 0.9677 Val AUC: 0.9669 Val PRC: 0.9648 Time: 9.90
+Epoch: 94 Train Loss: 0.2201 Acc: 0.9065 Pre: 0.8941 Recall: 0.9223 F1: 0.9080 Train AUC: 0.9724 Val AUC: 0.9675 Val PRC: 0.9675 Time: 9.77
+Epoch: 95 Train Loss: 0.2277 Acc: 0.9055 Pre: 0.8799 Recall: 0.9391 F1: 0.9085 Train AUC: 0.9703 Val AUC: 0.9687 Val PRC: 0.9682 Time: 9.77
+Epoch: 96 Train Loss: 0.2295 Acc: 0.9091 Pre: 0.9028 Recall: 0.9170 F1: 0.9098 Train AUC: 0.9701 Val AUC: 0.9676 Val PRC: 0.9666 Time: 9.59
+Epoch: 97 Train Loss: 0.2275 Acc: 0.9091 Pre: 0.9020 Recall: 0.9181 F1: 0.9099 Train AUC: 0.9693 Val AUC: 0.9669 Val PRC: 0.9653 Time: 9.88
+Epoch: 98 Train Loss: 0.2235 Acc: 0.9123 Pre: 0.8882 Recall: 0.9433 F1: 0.9149 Train AUC: 0.9711 Val AUC: 0.9687 Val PRC: 0.9672 Time: 9.73
+Epoch: 99 Train Loss: 0.2254 Acc: 0.9107 Pre: 0.9006 Recall: 0.9233 F1: 0.9118 Train AUC: 0.9716 Val AUC: 0.9676 Val PRC: 0.9668 Time: 9.97
+Epoch: 100 Train Loss: 0.2289 Acc: 0.9118 Pre: 0.9058 Recall: 0.9191 F1: 0.9124 Train AUC: 0.9695 Val AUC: 0.9687 Val PRC: 0.9676 Time: 9.72
+Epoch: 101 Train Loss: 0.2204 Acc: 0.9086 Pre: 0.8937 Recall: 0.9275 F1: 0.9103 Train AUC: 0.9715 Val AUC: 0.9688 Val PRC: 0.9682 Time: 9.82
+Epoch: 102 Train Loss: 0.2141 Acc: 0.9086 Pre: 0.8867 Recall: 0.9370 F1: 0.9111 Train AUC: 0.9735 Val AUC: 0.9677 Val PRC: 0.9679 Time: 9.83
+Epoch: 103 Train Loss: 0.2179 Acc: 0.9091 Pre: 0.8938 Recall: 0.9286 F1: 0.9109 Train AUC: 0.9725 Val AUC: 0.9678 Val PRC: 0.9672 Time: 9.86
+Epoch: 104 Train Loss: 0.2147 Acc: 0.9097 Pre: 0.8980 Recall: 0.9244 F1: 0.9110 Train AUC: 0.9729 Val AUC: 0.9694 Val PRC: 0.9690 Time: 9.83
+Epoch: 105 Train Loss: 0.2274 Acc: 0.9065 Pre: 0.8957 Recall: 0.9202 F1: 0.9078 Train AUC: 0.9712 Val AUC: 0.9683 Val PRC: 0.9686 Time: 9.84
+Epoch: 106 Train Loss: 0.2280 Acc: 0.9091 Pre: 0.9062 Recall: 0.9128 F1: 0.9095 Train AUC: 0.9692 Val AUC: 0.9684 Val PRC: 0.9679 Time: 9.71
+Epoch: 107 Train Loss: 0.2236 Acc: 0.9133 Pre: 0.8939 Recall: 0.9380 F1: 0.9154 Train AUC: 0.9706 Val AUC: 0.9692 Val PRC: 0.9693 Time: 9.83
+Epoch: 108 Train Loss: 0.2210 Acc: 0.9091 Pre: 0.8979 Recall: 0.9233 F1: 0.9104 Train AUC: 0.9734 Val AUC: 0.9692 Val PRC: 0.9703 Time: 9.63
+Epoch: 109 Train Loss: 0.2246 Acc: 0.9049 Pre: 0.8859 Recall: 0.9296 F1: 0.9072 Train AUC: 0.9719 Val AUC: 0.9681 Val PRC: 0.9697 Time: 9.75
+Epoch: 110 Train Loss: 0.2380 Acc: 0.9028 Pre: 0.9007 Recall: 0.9055 F1: 0.9031 Train AUC: 0.9666 Val AUC: 0.9645 Val PRC: 0.9620 Time: 9.80
+Epoch: 111 Train Loss: 0.2148 Acc: 0.9034 Pre: 0.8895 Recall: 0.9212 F1: 0.9051 Train AUC: 0.9720 Val AUC: 0.9677 Val PRC: 0.9664 Time: 9.90
+Epoch: 112 Train Loss: 0.2688 Acc: 0.8918 Pre: 0.8664 Recall: 0.9265 F1: 0.8954 Train AUC: 0.9696 Val AUC: 0.9593 Val PRC: 0.9634 Time: 9.75
+Epoch: 113 Train Loss: 0.2212 Acc: 0.9049 Pre: 0.8791 Recall: 0.9391 F1: 0.9081 Train AUC: 0.9721 Val AUC: 0.9691 Val PRC: 0.9691 Time: 9.79
+Epoch: 114 Train Loss: 0.2868 Acc: 0.8908 Pre: 0.8676 Recall: 0.9223 F1: 0.8941 Train AUC: 0.9613 Val AUC: 0.9582 Val PRC: 0.9505 Time: 9.93
+Epoch: 115 Train Loss: 0.2262 Acc: 0.9060 Pre: 0.8727 Recall: 0.9506 F1: 0.9100 Train AUC: 0.9716 Val AUC: 0.9687 Val PRC: 0.9665 Time: 9.81
+Epoch: 116 Train Loss: 0.2661 Acc: 0.8986 Pre: 0.8837 Recall: 0.9181 F1: 0.9006 Train AUC: 0.9658 Val AUC: 0.9629 Val PRC: 0.9655 Time: 9.86
+Epoch: 117 Train Loss: 0.2619 Acc: 0.8992 Pre: 0.8762 Recall: 0.9296 F1: 0.9021 Train AUC: 0.9711 Val AUC: 0.9640 Val PRC: 0.9639 Time: 9.82
+Epoch: 118 Train Loss: 0.2432 Acc: 0.8986 Pre: 0.8900 Recall: 0.9097 F1: 0.8997 Train AUC: 0.9633 Val AUC: 0.9596 Val PRC: 0.9534 Time: 9.66
+Epoch: 119 Train Loss: 0.2612 Acc: 0.9086 Pre: 0.9130 Recall: 0.9034 F1: 0.9081 Train AUC: 0.9672 Val AUC: 0.9643 Val PRC: 0.9614 Time: 9.76
+Epoch: 120 Train Loss: 0.2393 Acc: 0.9102 Pre: 0.9055 Recall: 0.9160 F1: 0.9107 Train AUC: 0.9713 Val AUC: 0.9675 Val PRC: 0.9680 Time: 9.74
+Epoch: 121 Train Loss: 0.2417 Acc: 0.9028 Pre: 0.8801 Recall: 0.9328 F1: 0.9057 Train AUC: 0.9665 Val AUC: 0.9643 Val PRC: 0.9669 Time: 10.11
+Epoch: 122 Train Loss: 0.2486 Acc: 0.8997 Pre: 0.8727 Recall: 0.9359 F1: 0.9032 Train AUC: 0.9663 Val AUC: 0.9609 Val PRC: 0.9610 Time: 9.72
+Epoch: 123 Train Loss: 0.2783 Acc: 0.8955 Pre: 0.8769 Recall: 0.9202 F1: 0.8980 Train AUC: 0.9582 Val AUC: 0.9571 Val PRC: 0.9471 Time: 9.87
+Epoch: 124 Train Loss: 0.2191 Acc: 0.9128 Pre: 0.8986 Recall: 0.9307 F1: 0.9143 Train AUC: 0.9713 Val AUC: 0.9682 Val PRC: 0.9679 Time: 9.72
+Epoch: 125 Train Loss: 0.2402 Acc: 0.9034 Pre: 0.8959 Recall: 0.9128 F1: 0.9043 Train AUC: 0.9674 Val AUC: 0.9630 Val PRC: 0.9661 Time: 9.64
+Epoch: 126 Train Loss: 0.2367 Acc: 0.9013 Pre: 0.9055 Recall: 0.8960 F1: 0.9007 Train AUC: 0.9681 Val AUC: 0.9612 Val PRC: 0.9652 Time: 9.99
+Epoch: 127 Train Loss: 0.2193 Acc: 0.9086 Pre: 0.8961 Recall: 0.9244 F1: 0.9100 Train AUC: 0.9717 Val AUC: 0.9664 Val PRC: 0.9664 Time: 9.87
+Epoch: 128 Train Loss: 0.2273 Acc: 0.9023 Pre: 0.8807 Recall: 0.9307 F1: 0.9050 Train AUC: 0.9686 Val AUC: 0.9655 Val PRC: 0.9630 Time: 9.96
+Epoch: 129 Train Loss: 0.2266 Acc: 0.9070 Pre: 0.8751 Recall: 0.9496 F1: 0.9108 Train AUC: 0.9702 Val AUC: 0.9666 Val PRC: 0.9666 Time: 9.94
+Epoch: 130 Train Loss: 0.2230 Acc: 0.8997 Pre: 0.8662 Recall: 0.9454 F1: 0.9041 Train AUC: 0.9716 Val AUC: 0.9653 Val PRC: 0.9678 Time: 9.92
+Epoch: 131 Train Loss: 0.2279 Acc: 0.9107 Pre: 0.8879 Recall: 0.9401 F1: 0.9133 Train AUC: 0.9700 Val AUC: 0.9663 Val PRC: 0.9673 Time: 9.90
+Epoch: 132 Train Loss: 0.2197 Acc: 0.9044 Pre: 0.8819 Recall: 0.9338 F1: 0.9071 Train AUC: 0.9715 Val AUC: 0.9667 Val PRC: 0.9663 Time: 9.93
+Epoch: 133 Train Loss: 0.2197 Acc: 0.9123 Pre: 0.8985 Recall: 0.9296 F1: 0.9138 Train AUC: 0.9715 Val AUC: 0.9672 Val PRC: 0.9669 Time: 9.90
+Epoch: 134 Train Loss: 0.2412 Acc: 0.9060 Pre: 0.8900 Recall: 0.9265 F1: 0.9079 Train AUC: 0.9664 Val AUC: 0.9650 Val PRC: 0.9610 Time: 9.59
+Epoch: 135 Train Loss: 0.2326 Acc: 0.9070 Pre: 0.9058 Recall: 0.9086 F1: 0.9072 Train AUC: 0.9682 Val AUC: 0.9639 Val PRC: 0.9659 Time: 9.90
+Epoch: 136 Train Loss: 0.2293 Acc: 0.9081 Pre: 0.8993 Recall: 0.9191 F1: 0.9091 Train AUC: 0.9700 Val AUC: 0.9651 Val PRC: 0.9665 Time: 9.87
+Epoch: 137 Train Loss: 0.2200 Acc: 0.9070 Pre: 0.8871 Recall: 0.9328 F1: 0.9094 Train AUC: 0.9706 Val AUC: 0.9683 Val PRC: 0.9662 Time: 9.77
+Epoch: 138 Train Loss: 0.2404 Acc: 0.9060 Pre: 0.9039 Recall: 0.9086 F1: 0.9062 Train AUC: 0.9655 Val AUC: 0.9650 Val PRC: 0.9621 Time: 9.91
+Epoch: 139 Train Loss: 0.2356 Acc: 0.8986 Pre: 0.8746 Recall: 0.9307 F1: 0.9018 Train AUC: 0.9693 Val AUC: 0.9648 Val PRC: 0.9671 Time: 9.98
+Epoch: 140 Train Loss: 0.2448 Acc: 0.8965 Pre: 0.8727 Recall: 0.9286 F1: 0.8997 Train AUC: 0.9687 Val AUC: 0.9612 Val PRC: 0.9656 Time: 9.90
+Epoch: 141 Train Loss: 0.2198 Acc: 0.9055 Pre: 0.8799 Recall: 0.9391 F1: 0.9085 Train AUC: 0.9716 Val AUC: 0.9669 Val PRC: 0.9647 Time: 9.91
+Epoch: 142 Train Loss: 0.2567 Acc: 0.8908 Pre: 0.8788 Recall: 0.9065 F1: 0.8925 Train AUC: 0.9625 Val AUC: 0.9543 Val PRC: 0.9476 Time: 9.44
+Epoch: 143 Train Loss: 0.2347 Acc: 0.9028 Pre: 0.8862 Recall: 0.9244 F1: 0.9049 Train AUC: 0.9677 Val AUC: 0.9642 Val PRC: 0.9607 Time: 9.58
+Epoch: 144 Train Loss: 0.2546 Acc: 0.8965 Pre: 0.8756 Recall: 0.9244 F1: 0.8993 Train AUC: 0.9707 Val AUC: 0.9639 Val PRC: 0.9661 Time: 9.40
+Epoch: 145 Train Loss: 0.2492 Acc: 0.8955 Pre: 0.8680 Recall: 0.9328 F1: 0.8992 Train AUC: 0.9706 Val AUC: 0.9639 Val PRC: 0.9663 Time: 9.83
+Epoch: 146 Train Loss: 0.2211 Acc: 0.9086 Pre: 0.9156 Recall: 0.9002 F1: 0.9078 Train AUC: 0.9712 Val AUC: 0.9669 Val PRC: 0.9668 Time: 9.58
+Epoch: 147 Train Loss: 0.2560 Acc: 0.8992 Pre: 0.8785 Recall: 0.9265 F1: 0.9018 Train AUC: 0.9624 Val AUC: 0.9590 Val PRC: 0.9526 Time: 9.82
+Epoch: 148 Train Loss: 0.2388 Acc: 0.9081 Pre: 0.9051 Recall: 0.9118 F1: 0.9084 Train AUC: 0.9673 Val AUC: 0.9679 Val PRC: 0.9675 Time: 9.62
+Epoch: 149 Train Loss: 0.2367 Acc: 0.8955 Pre: 0.8724 Recall: 0.9265 F1: 0.8986 Train AUC: 0.9698 Val AUC: 0.9638 Val PRC: 0.9667 Time: 9.76
+Epoch: 150 Train Loss: 0.2413 Acc: 0.8992 Pre: 0.8901 Recall: 0.9107 F1: 0.9003 Train AUC: 0.9695 Val AUC: 0.9627 Val PRC: 0.9653 Time: 9.70
+Epoch: 151 Train Loss: 0.2291 Acc: 0.9060 Pre: 0.8916 Recall: 0.9244 F1: 0.9077 Train AUC: 0.9702 Val AUC: 0.9669 Val PRC: 0.9681 Time: 9.89
+Epoch: 152 Train Loss: 0.2392 Acc: 0.8971 Pre: 0.8663 Recall: 0.9391 F1: 0.9012 Train AUC: 0.9669 Val AUC: 0.9643 Val PRC: 0.9633 Time: 9.76
+Epoch: 153 Train Loss: 0.2336 Acc: 0.9049 Pre: 0.8930 Recall: 0.9202 F1: 0.9064 Train AUC: 0.9672 Val AUC: 0.9667 Val PRC: 0.9649 Time: 9.88
+Epoch: 154 Train Loss: 0.2261 Acc: 0.9028 Pre: 0.8839 Recall: 0.9275 F1: 0.9052 Train AUC: 0.9702 Val AUC: 0.9668 Val PRC: 0.9674 Time: 9.65
+Epoch: 155 Train Loss: 0.2409 Acc: 0.8981 Pre: 0.8694 Recall: 0.9370 F1: 0.9019 Train AUC: 0.9662 Val AUC: 0.9614 Val PRC: 0.9657 Time: 9.95
+Epoch: 156 Train Loss: 0.2118 Acc: 0.9081 Pre: 0.8936 Recall: 0.9265 F1: 0.9097 Train AUC: 0.9748 Val AUC: 0.9684 Val PRC: 0.9678 Time: 9.88
+Epoch: 157 Train Loss: 0.2175 Acc: 0.9086 Pre: 0.8961 Recall: 0.9244 F1: 0.9100 Train AUC: 0.9720 Val AUC: 0.9670 Val PRC: 0.9653 Time: 9.99
+Epoch: 158 Train Loss: 0.2302 Acc: 0.9086 Pre: 0.9052 Recall: 0.9128 F1: 0.9090 Train AUC: 0.9685 Val AUC: 0.9647 Val PRC: 0.9583 Time: 9.64
+Epoch: 159 Train Loss: 0.2236 Acc: 0.9107 Pre: 0.9160 Recall: 0.9044 F1: 0.9101 Train AUC: 0.9706 Val AUC: 0.9656 Val PRC: 0.9631 Time: 10.00
+Epoch: 160 Train Loss: 0.2395 Acc: 0.9023 Pre: 0.8815 Recall: 0.9296 F1: 0.9049 Train AUC: 0.9719 Val AUC: 0.9639 Val PRC: 0.9654 Time: 9.93
+Epoch: 161 Train Loss: 0.2262 Acc: 0.9097 Pre: 0.8884 Recall: 0.9370 F1: 0.9121 Train AUC: 0.9693 Val AUC: 0.9671 Val PRC: 0.9650 Time: 9.76
+Epoch: 162 Train Loss: 0.2242 Acc: 0.9028 Pre: 0.8831 Recall: 0.9286 F1: 0.9053 Train AUC: 0.9699 Val AUC: 0.9655 Val PRC: 0.9639 Time: 9.77
+Epoch: 163 Train Loss: 0.2222 Acc: 0.9097 Pre: 0.8988 Recall: 0.9233 F1: 0.9109 Train AUC: 0.9722 Val AUC: 0.9688 Val PRC: 0.9693 Time: 9.97
+Epoch: 164 Train Loss: 0.2292 Acc: 0.9039 Pre: 0.8984 Recall: 0.9107 F1: 0.9045 Train AUC: 0.9706 Val AUC: 0.9652 Val PRC: 0.9671 Time: 9.89
+Epoch: 165 Train Loss: 0.2257 Acc: 0.9039 Pre: 0.8864 Recall: 0.9265 F1: 0.9060 Train AUC: 0.9716 Val AUC: 0.9663 Val PRC: 0.9679 Time: 9.81
+Epoch: 166 Train Loss: 0.2190 Acc: 0.9076 Pre: 0.8927 Recall: 0.9265 F1: 0.9093 Train AUC: 0.9724 Val AUC: 0.9669 Val PRC: 0.9665 Time: 9.54
+Epoch: 167 Train Loss: 0.2346 Acc: 0.9044 Pre: 0.8842 Recall: 0.9307 F1: 0.9069 Train AUC: 0.9668 Val AUC: 0.9637 Val PRC: 0.9594 Time: 9.86
+Epoch: 168 Train Loss: 0.2178 Acc: 0.9060 Pre: 0.8908 Recall: 0.9254 F1: 0.9078 Train AUC: 0.9713 Val AUC: 0.9663 Val PRC: 0.9639 Time: 9.55
+Epoch: 169 Train Loss: 0.2269 Acc: 0.9039 Pre: 0.8788 Recall: 0.9370 F1: 0.9070 Train AUC: 0.9706 Val AUC: 0.9680 Val PRC: 0.9689 Time: 9.77
+Epoch: 170 Train Loss: 0.2257 Acc: 0.9044 Pre: 0.8953 Recall: 0.9160 F1: 0.9055 Train AUC: 0.9722 Val AUC: 0.9643 Val PRC: 0.9677 Time: 9.77
+Epoch: 171 Train Loss: 0.2249 Acc: 0.9102 Pre: 0.9022 Recall: 0.9202 F1: 0.9111 Train AUC: 0.9727 Val AUC: 0.9684 Val PRC: 0.9669 Time: 9.92
+Epoch: 172 Train Loss: 0.2277 Acc: 0.9102 Pre: 0.9013 Recall: 0.9212 F1: 0.9112 Train AUC: 0.9699 Val AUC: 0.9677 Val PRC: 0.9658 Time: 9.73
+Epoch: 173 Train Loss: 0.2195 Acc: 0.9039 Pre: 0.8864 Recall: 0.9265 F1: 0.9060 Train AUC: 0.9717 Val AUC: 0.9663 Val PRC: 0.9669 Time: 9.82
+Epoch: 174 Train Loss: 0.2270 Acc: 0.9044 Pre: 0.8969 Recall: 0.9139 F1: 0.9053 Train AUC: 0.9726 Val AUC: 0.9665 Val PRC: 0.9688 Time: 9.86
+Epoch: 175 Train Loss: 0.2256 Acc: 0.9060 Pre: 0.8924 Recall: 0.9233 F1: 0.9076 Train AUC: 0.9725 Val AUC: 0.9670 Val PRC: 0.9677 Time: 9.68
+Epoch: 176 Train Loss: 0.2618 Acc: 0.9065 Pre: 0.8981 Recall: 0.9170 F1: 0.9075 Train AUC: 0.9631 Val AUC: 0.9610 Val PRC: 0.9565 Time: 9.74
+Epoch: 177 Train Loss: 0.2237 Acc: 0.9097 Pre: 0.9140 Recall: 0.9044 F1: 0.9092 Train AUC: 0.9693 Val AUC: 0.9658 Val PRC: 0.9620 Time: 9.95
+Epoch: 178 Train Loss: 0.2250 Acc: 0.9002 Pre: 0.8888 Recall: 0.9149 F1: 0.9017 Train AUC: 0.9735 Val AUC: 0.9666 Val PRC: 0.9680 Time: 9.93
+Epoch: 179 Train Loss: 0.2388 Acc: 0.9028 Pre: 0.8999 Recall: 0.9065 F1: 0.9032 Train AUC: 0.9685 Val AUC: 0.9641 Val PRC: 0.9639 Time: 9.89
+Epoch: 180 Train Loss: 0.2212 Acc: 0.9065 Pre: 0.8949 Recall: 0.9212 F1: 0.9079 Train AUC: 0.9723 Val AUC: 0.9657 Val PRC: 0.9633 Time: 9.61
+Epoch: 181 Train Loss: 0.2102 Acc: 0.9097 Pre: 0.9004 Recall: 0.9212 F1: 0.9107 Train AUC: 0.9746 Val AUC: 0.9693 Val PRC: 0.9689 Time: 9.91
+Epoch: 182 Train Loss: 0.2308 Acc: 0.9112 Pre: 0.9065 Recall: 0.9170 F1: 0.9117 Train AUC: 0.9699 Val AUC: 0.9673 Val PRC: 0.9663 Time: 9.28
+Epoch: 183 Train Loss: 0.2151 Acc: 0.9097 Pre: 0.9021 Recall: 0.9191 F1: 0.9105 Train AUC: 0.9727 Val AUC: 0.9676 Val PRC: 0.9670 Time: 10.30
+Epoch: 184 Train Loss: 0.2169 Acc: 0.9081 Pre: 0.8993 Recall: 0.9191 F1: 0.9091 Train AUC: 0.9722 Val AUC: 0.9678 Val PRC: 0.9670 Time: 9.72
+Epoch: 185 Train Loss: 0.2326 Acc: 0.9060 Pre: 0.8877 Recall: 0.9296 F1: 0.9082 Train AUC: 0.9728 Val AUC: 0.9666 Val PRC: 0.9666 Time: 9.69
+Epoch: 186 Train Loss: 0.2156 Acc: 0.9102 Pre: 0.8901 Recall: 0.9359 F1: 0.9124 Train AUC: 0.9741 Val AUC: 0.9687 Val PRC: 0.9686 Time: 9.83
+Epoch: 187 Train Loss: 0.2572 Acc: 0.8997 Pre: 0.8816 Recall: 0.9233 F1: 0.9020 Train AUC: 0.9635 Val AUC: 0.9620 Val PRC: 0.9591 Time: 9.93
+Epoch: 188 Train Loss: 0.2236 Acc: 0.9065 Pre: 0.9057 Recall: 0.9076 F1: 0.9066 Train AUC: 0.9742 Val AUC: 0.9672 Val PRC: 0.9669 Time: 9.76
+Epoch: 189 Train Loss: 0.2509 Acc: 0.8923 Pre: 0.9020 Recall: 0.8803 F1: 0.8910 Train AUC: 0.9646 Val AUC: 0.9535 Val PRC: 0.9611 Time: 9.84
+Epoch: 190 Train Loss: 0.2207 Acc: 0.9055 Pre: 0.8939 Recall: 0.9202 F1: 0.9068 Train AUC: 0.9753 Val AUC: 0.9661 Val PRC: 0.9675 Time: 9.53
+Epoch: 191 Train Loss: 0.2220 Acc: 0.9023 Pre: 0.8869 Recall: 0.9223 F1: 0.9042 Train AUC: 0.9714 Val AUC: 0.9670 Val PRC: 0.9660 Time: 9.92
+Epoch: 192 Train Loss: 0.2334 Acc: 0.8971 Pre: 0.8873 Recall: 0.9097 F1: 0.8983 Train AUC: 0.9673 Val AUC: 0.9603 Val PRC: 0.9570 Time: 9.55
+Epoch: 193 Train Loss: 0.2327 Acc: 0.8976 Pre: 0.8714 Recall: 0.9328 F1: 0.9011 Train AUC: 0.9673 Val AUC: 0.9618 Val PRC: 0.9590 Time: 10.02
+Epoch: 194 Train Loss: 0.2146 Acc: 0.9028 Pre: 0.8862 Recall: 0.9244 F1: 0.9049 Train AUC: 0.9735 Val AUC: 0.9667 Val PRC: 0.9673 Time: 9.79
+Epoch: 195 Train Loss: 0.2459 Acc: 0.8929 Pre: 0.8987 Recall: 0.8855 F1: 0.8921 Train AUC: 0.9677 Val AUC: 0.9556 Val PRC: 0.9618 Time: 10.00
+Epoch: 196 Train Loss: 0.2145 Acc: 0.9034 Pre: 0.8871 Recall: 0.9244 F1: 0.9053 Train AUC: 0.9740 Val AUC: 0.9675 Val PRC: 0.9691 Time: 9.64
+Epoch: 197 Train Loss: 0.2406 Acc: 0.9018 Pre: 0.8646 Recall: 0.9527 F1: 0.9065 Train AUC: 0.9678 Val AUC: 0.9644 Val PRC: 0.9618 Time: 9.86
+Epoch: 198 Train Loss: 0.2458 Acc: 0.8997 Pre: 0.8935 Recall: 0.9076 F1: 0.9005 Train AUC: 0.9640 Val AUC: 0.9592 Val PRC: 0.9527 Time: 10.07
+Epoch: 199 Train Loss: 0.2390 Acc: 0.8976 Pre: 0.8766 Recall: 0.9254 F1: 0.9004 Train AUC: 0.9657 Val AUC: 0.9598 Val PRC: 0.9596 Time: 9.85
+Epoch: 200 Train Loss: 0.2435 Acc: 0.8971 Pre: 0.8757 Recall: 0.9254 F1: 0.8999 Train AUC: 0.9679 Val AUC: 0.9610 Val PRC: 0.9648 Time: 9.65
+Fold: 1 Best Epoch: 104 Val acc: 0.9097 Val Pre: 0.8980 Val Recall: 0.9244 Val F1: 0.9110 Val AUC: 0.9694 Val PRC: 0.9690
+------this is 2th cross validation------
+^CTraceback (most recent call last):
+  File "/tmp/pycharm_project_331/code/main.py", line 52, in <module>
+    train_loss, train_neg_edge_index, trian_labels, trian_scores, output= train(data, model, optimizer, criterion)
+  File "/tmp/pycharm_project_331/code/train.py", line 20, in train
+    output = model(data.x, data.Adj, data.edge_index, data.edge_attr)
+  File "/root/miniconda3/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/root/miniconda3/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/tmp/pycharm_project_331/code/model.py", line 63, in forward
+    x = self.TransformerConv(x, index)
+  File "/root/miniconda3/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/root/miniconda3/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/tmp/pycharm_project_331/code/model.py", line 297, in forward
+    out = self.propagate(edge_index, query=query, key=key, value=value,
+  File "/tmp/model_TransformerConv_propagate_idf1mvqn.py", line 186, in propagate
+    kwargs = self.collect(
+  File "/tmp/model_TransformerConv_propagate_idf1mvqn.py", line 95, in collect
+    query_i = self._index_select(query, edge_index_i)
+  File "/root/miniconda3/lib/python3.10/site-packages/torch_geometric/nn/conv/message_passing.py", line 313, in _index_select
+    return self._index_select_safe(src, index)
+  File "/root/miniconda3/lib/python3.10/site-packages/torch_geometric/nn/conv/message_passing.py", line 317, in _index_select_safe
+    return src.index_select(self.node_dim, index)
+KeyboardInterrupt
+
+进程已结束,退出代码130
