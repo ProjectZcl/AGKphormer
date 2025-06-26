@@ -1,0 +1,348 @@
+\begin{thebibliography}{10}
+
+\bibitem{transport1}
+David Guerrero, Lucie Letrouit, and Carlos Pais-Montes.
+\newblock The container transport system during covid-19: An analysis through
+  the prism of complex networks.
+\newblock {\em Transport Policy}, 115:113--125, 2022.
+
+\bibitem{dhanya2016salivary}
+M~Dhanya and S~Hegde.
+\newblock Salivary glucose as a diagnostic tool in type ii diabetes mellitus: A
+  case-control study.
+\newblock {\em Nigerian journal of clinical practice}, 19(4):486--490, 2016.
+
+\bibitem{drucker2021diabetes}
+Daniel~J Drucker.
+\newblock Diabetes, obesity, metabolism, and sars-cov-2 infection: the end of
+  the beginning.
+\newblock {\em Cell metabolism}, 33(3):479--498, 2021.
+
+\bibitem{amiri2022role}
+Parichehr Amiri, Seyed~Ahmad Hosseini, Samad Ghaffari, Helda Tutunchi, Shamsi
+  Ghaffari, Erfan Mosharkesh, Samira Asghari, and Neda Roshanravan.
+\newblock Role of butyrate, a gut microbiota derived metabolite, in
+  cardiovascular diseases: A comprehensive narrative review.
+\newblock {\em Frontiers in Pharmacology}, 12:837509, 2022.
+
+\bibitem{lee2022insulin}
+Shin-Hae Lee, Shi-Young Park, and Cheol~Soo Choi.
+\newblock Insulin resistance: from mechanisms to therapeutic strategies.
+\newblock {\em Diabetes \& metabolism journal}, 46(1):15--37, 2022.
+
+\bibitem{liu2021transition}
+Matt Liu, Tai-Chung Tseng, Dae~Won Jun, Ming-Lun Yeh, Huy Trinh, Grace~LH Wong,
+  Chien-Hung Chen, Cheng-Yuan Peng, Sung~Eun Kim, Hyunwoo Oh, et~al.
+\newblock Transition rates to cirrhosis and liver cancer by age, gender,
+  disease and treatment status in asian chronic hepatitis b patients.
+\newblock {\em Hepatology international}, 15:71--81, 2021.
+
+\bibitem{chen2022guide}
+Yang Chen, En-Min Li, and Li-Yan Xu.
+\newblock Guide to metabolomics analysis: a bioinformatics workflow.
+\newblock {\em Metabolites}, 12(4):357, 2022.
+
+\bibitem{hoffman2021developmental}
+Daniel~J Hoffman, Theresa~L Powell, Emily~S Barrett, and Daniel~B Hardy.
+\newblock Developmental origins of metabolic diseases.
+\newblock {\em Physiological reviews}, 101(3):739--795, 2021.
+
+\bibitem{jensen2020effects}
+Nicole~Jacqueline Jensen, Helena~Zander Wodschow, Malin Nilsson, and J{\o}rgen
+  Rungby.
+\newblock Effects of ketone bodies on brain metabolism and function in
+  neurodegenerative diseases.
+\newblock {\em International journal of molecular sciences}, 21(22):8767, 2020.
+
+\bibitem{aron2021metabolism}
+Judith Aron-Wisnewsky, Moritz~V Warmbrunn, Max Nieuwdorp, and Karine
+  Cl{\'e}ment.
+\newblock Metabolism and metabolic disorders and the microbiome: the intestinal
+  microbiota associated with obesity, lipid metabolism, and metabolic
+  health—pathophysiology and therapeutic strategies.
+\newblock {\em Gastroenterology}, 160(2):573--599, 2021.
+
+\bibitem{vaupel2021revisiting}
+Peter Vaupel and Gabriele Multhoff.
+\newblock Revisiting the warburg effect: historical dogma versus current
+  understanding.
+\newblock {\em The Journal of physiology}, 599(6):1745--1757, 2021.
+
+\bibitem{martinez2021cancer}
+Inmaculada Mart{\'\i}nez-Reyes and Navdeep~S Chandel.
+\newblock Cancer metabolism: looking forward.
+\newblock {\em Nature Reviews Cancer}, 21(10):669--680, 2021.
+
+\bibitem{montenegro2020metlin}
+J~Rafael Montenegro-Burke, Carlos Guijas, and Gary Siuzdak.
+\newblock Metlin: a tandem mass spectral library of standards.
+\newblock {\em Computational methods and data analysis for metabolomics}, pages
+  149--163, 2020.
+
+\bibitem{wishart2022hmdb}
+David~S Wishart, AnChi Guo, Eponine Oler, Fei Wang, Afia Anjum, Harrison
+  Peters, Raynard Dizon, Zinat Sayeeda, Siyang Tian, Brian~L Lee, et~al.
+\newblock Hmdb 5.0: the human metabolome database for 2022.
+\newblock {\em Nucleic acids research}, 50(D1):D622--D631, 2022.
+
+\bibitem{cheng2022gutmgene}
+Liang Cheng, Changlu Qi, Haixiu Yang, Minke Lu, Yiting Cai, Tongze Fu, Jialiang
+  Ren, Qu~Jin, and Xue Zhang.
+\newblock gutmgene: a comprehensive database for target genes of gut microbes
+  and microbial metabolites.
+\newblock {\em Nucleic acids research}, 50(D1):D795--D800, 2022.
+
+\bibitem{hu2018identifying}
+Yang Hu, Tianyi Zhao, Ningyi Zhang, Tianyi Zang, Jun Zhang, and Liang Cheng.
+\newblock Identifying diseases-related metabolites using random walk.
+\newblock {\em BMC bioinformatics}, 19:37--46, 2018.
+
+\bibitem{lei2019predicting}
+Xiujuan Lei and Cheng Zhang.
+\newblock Predicting metabolite-disease associations based on katz model.
+\newblock {\em BioData Mining}, 12:1--14, 2019.
+
+\bibitem{lei2020predicting}
+{Lei, Xiujuan and Zhang, Cheng}.
+\newblock Predicting metabolite-disease associations based on linear
+  neighborhood similarity with improved bipartite network projection algorithm.
+\newblock {\em Complexity}, 2020(1):9342640, 2020.
+
+\bibitem{zhao2021deep}
+Tianyi Zhao, Yang Hu, and Liang Cheng.
+\newblock Deep-drm: a computational method for identifying disease-related
+  metabolites based on graph deep learning approaches.
+\newblock {\em Briefings in Bioinformatics}, 22(4):bbaa212, 2021.
+
+\bibitem{zhang2021predicting}
+Cheng Zhang, Xiujuan Lei, and Lian Liu.
+\newblock Predicting metabolite--disease associations based on lightgbm model.
+\newblock {\em Frontiers in Genetics}, 12:660275, 2021.
+
+\bibitem{tie2021metabolite}
+Jiaojiao Tie, Xiujuan Lei, and Yi~Pan.
+\newblock Metabolite-disease association prediction algorithm combining
+  deepwalk and random forest.
+\newblock {\em Tsinghua Science and Technology}, 27(1):58--67, 2021.
+
+\bibitem{sun2022deep}
+Feiyue Sun, Jianqiang Sun, and Qi~Zhao.
+\newblock A deep learning method for predicting metabolite--disease
+  associations via graph neural network.
+\newblock {\em Briefings in bioinformatics}, 23(4):bbac266, 2022.
+
+\bibitem{gao2023predicting}
+Hongyan Gao, Jianqiang Sun, Yukun Wang, Yuer Lu, Liyu Liu, Qi~Zhao, and Jianwei
+  Shuai.
+\newblock Predicting metabolite--disease associations based on auto-encoder and
+  non-negative matrix factorization.
+\newblock {\em Briefings in bioinformatics}, 24(5):bbad259, 2023.
+
+\bibitem{kipf2017semisupervisedclassificationgraphconvolutional}
+Thomas~N. Kipf and Max Welling.
+\newblock Semi-supervised classification with graph convolutional networks,
+  2017.
+
+\bibitem{vaswani2023attentionneed}
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones,
+  Aidan~N. Gomez, Lukasz Kaiser, and Illia Polosukhin.
+\newblock Attention is all you need, 2023.
+
+\bibitem{MAL-016}
+Stephen Boyd, Neal Parikh, Eric Chu, Borja Peleato, and Jonathan Eckstein.
+\newblock Distributed optimization and statistical learning via the alternating
+  direction method of multipliers.
+\newblock {\em Foundations and Trends® in Machine Learning}, 3(1):1--122,
+  2011.
+
+\bibitem{lipscomb2000medical}
+Carolyn~E Lipscomb.
+\newblock Medical subject headings (mesh).
+\newblock {\em Bulletin of the Medical Library Association}, 88(3):265, 2000.
+
+\bibitem{wang2010inferring}
+Dong Wang, Juan Wang, Ming Lu, Fei Song, and Qinghua Cui.
+\newblock Inferring the human microrna functional similarity and functional
+  network based on microrna-associated diseases.
+\newblock {\em Bioinformatics}, 26(13):1644--1650, 2010.
+
+\bibitem{ter2003gaussian}
+Bart~M ter Haar~Romeny.
+\newblock The gaussian kernel.
+\newblock {\em Front-End Vision and Multi-Scale Image Analysis: Multi-Scale
+  Computer Vision Theory and Applications, written in Mathematics}, pages
+  37--51, 2003.
+
+\bibitem{van2011gaussian}
+Twan Van~Laarhoven, Sander~B Nabuurs, and Elena Marchiori.
+\newblock Gaussian interaction profile kernels for predicting drug--target
+  interaction.
+\newblock {\em Bioinformatics}, 27(21):3036--3043, 2011.
+
+\bibitem{lim2016large}
+Hansaim Lim, Aleksandar Poleksic, Yuan Yao, Hanghang Tong, Di~He, Luke Zhuang,
+  Patrick Meng, and Lei Xie.
+\newblock Large-scale off-target identification using fast and accurate dual
+  regularized one-class collaborative filtering and its application to drug
+  repurposing.
+\newblock {\em PLoS computational biology}, 12(10):e1005135, 2016.
+
+\bibitem{willett1998chemical}
+Peter Willett, John~M Barnard, and Geoffrey~M Downs.
+\newblock Chemical similarity searching.
+\newblock {\em Journal of chemical information and computer sciences},
+  38(6):983--996, 1998.
+
+\bibitem{ramlatchan2018survey}
+Andy Ramlatchan, Mengyun Yang, Quan Liu, Min Li, Jianxin Wang, and Yaohang Li.
+\newblock A survey of matrix completion methods for recommendation systems.
+\newblock {\em Big Data Mining and Analytics}, 1(4):308--323, 2018.
+
+\bibitem{candes2013simple}
+Emmanuel Candes and Benjamin Recht.
+\newblock Simple bounds for recovering low-complexity models.
+\newblock {\em Mathematical Programming}, 141(1):577--589, 2013.
+
+\bibitem{cordonnier2020multi}
+Jean-Baptiste Cordonnier, Andreas Loukas, and Martin Jaggi.
+\newblock Multi-head attention: Collaborate instead of concatenate.
+\newblock {\em arXiv preprint arXiv:2006.16362}, 2020.
+
+\bibitem{shi2021maskedlabelpredictionunified}
+Yunsheng Shi, Zhengjie Huang, Shikun Feng, Hui Zhong, Wenjin Wang, and Yu~Sun.
+\newblock Masked label prediction: Unified message passing model for
+  semi-supervised classification, 2021.
+
+\bibitem{liu2017largemarginsoftmaxlossconvolutional}
+Weiyang Liu, Yandong Wen, Zhiding Yu, and Meng Yang.
+\newblock Large-margin softmax loss for convolutional neural networks, 2017.
+
+\bibitem{szegedy2017inception}
+Christian Szegedy, Sergey Ioffe, Vincent Vanhoucke, and Alexander Alemi.
+\newblock Inception-v4, inception-resnet and the impact of residual connections
+  on learning.
+\newblock In {\em Proceedings of the AAAI conference on artificial
+  intelligence}, volume~31, 2017.
+
+\bibitem{li2024kolmogorovarnoldnetworksradialbasis}
+Ziyao Li.
+\newblock Kolmogorov-arnold networks are radial basis function networks, 2024.
+
+\bibitem{taud2018multilayer}
+Hind Taud and Jean-Franccois Mas.
+\newblock Multilayer perceptron (mlp).
+\newblock {\em Geomatic approaches for modeling land change scenarios}, pages
+  451--455, 2018.
+
+\bibitem{liu2024kankolmogorovarnoldnetworks}
+Ziming Liu, Yixuan Wang, Sachin Vaidya, Fabian Ruehle, James Halverson, Marin
+  Soljačić, Thomas~Y. Hou, and Max Tegmark.
+\newblock Kan: Kolmogorov-arnold networks, 2024.
+
+\bibitem{de1972calculating}
+Carl De~Boor.
+\newblock On calculating with b-splines.
+\newblock {\em Journal of Approximation theory}, 6(1):50--62, 1972.
+
+\bibitem{buhmann2000radial}
+Martin~Dietrich Buhmann.
+\newblock Radial basis functions.
+\newblock {\em Acta numerica}, 9:1--38, 2000.
+
+\bibitem{mao2023cross}
+Anqi Mao, Mehryar Mohri, and Yutao Zhong.
+\newblock Cross-entropy loss functions: Theoretical analysis and applications.
+\newblock In {\em International conference on Machine learning}, pages
+  23803--23828. PMLR, 2023.
+
+\bibitem{kingma2014adam}
+Diederik~P Kingma.
+\newblock Adam: A method for stochastic optimization.
+\newblock {\em arXiv preprint arXiv:1412.6980}, 2014.
+
+\bibitem{baldi2013understanding}
+Pierre Baldi and Peter~J Sadowski.
+\newblock Understanding dropout.
+\newblock {\em Advances in neural information processing systems}, 26, 2013.
+
+\bibitem{wong2017dependency}
+Tzu-Tsung Wong and Nai-Yu Yang.
+\newblock Dependency analysis of accuracy estimates in k-fold cross validation.
+\newblock {\em IEEE Transactions on Knowledge and Data Engineering},
+  29(11):2417--2427, 2017.
+
+\bibitem{lei2019prediction}
+Xiujuan Lei and Jiaojiao Tie.
+\newblock Prediction of disease-related metabolites using bi-random walks.
+\newblock {\em PloS one}, 14(11):e0225380, 2019.
+
+\bibitem{blennow2006alzheimer}
+Kaj Blennow, Mony~J de~Leon, and Henrik Zetterberg.
+\newblock Alzheimer's disease.
+\newblock {\em The Lancet}, 368(9533):387--403, 2006.
+
+\bibitem{chen2013decoding}
+Zhichun Chen and Chunjiu Zhong.
+\newblock Decoding alzheimer's disease from perturbed cerebral glucose
+  metabolism: implications for diagnostic and therapeutic strategies.
+\newblock {\em Progress in neurobiology}, 108:21--43, 2013.
+
+\bibitem{wilkins2018application}
+Jordan~Maximillian Wilkins and Eugenia Trushina.
+\newblock Application of metabolomics in alzheimer’s disease.
+\newblock {\em Frontiers in neurology}, 8:719, 2018.
+
+\bibitem{tsuruoka2013capillary}
+Mayuko Tsuruoka, Junko Hara, Akiyoshi Hirayama, Masahiro Sugimoto, Tomoyoshi
+  Soga, William~R Shankle, and Masaru Tomita.
+\newblock Capillary electrophoresis-mass spectrometry-based metabolome analysis
+  of serum and saliva from neurodegenerative dementia patients.
+\newblock {\em Electrophoresis}, 34(19):2865--2872, 2013.
+
+\bibitem{redjems1998abnormal}
+Nabila Redjems-Bennani, Claude Jeandel, Emmanuelle Lefebvre, Hubert Blain,
+  Michel Vidailhet, and Jean-Louis Gu{\'e}ant.
+\newblock Abnormal substrate levels that depend upon mitochondrial function in
+  cerebrospinal fluid from alzheimer patients.
+\newblock {\em Gerontology}, 44(5):300--304, 1998.
+
+\bibitem{shanahan2002crohn}
+Fergus Shanahan.
+\newblock Crohn's disease.
+\newblock {\em The Lancet}, 359(9300):62--69, 2002.
+
+\bibitem{kolho2017faecal}
+Kaija-Leena Kolho, Alberto Pessia, Tytti Jaakkola, Willem~M de~Vos, and Vidya
+  Velagapudi.
+\newblock Faecal and serum metabolomics in paediatric inflammatory bowel
+  disease.
+\newblock {\em Journal of Crohn's and Colitis}, 11(3):321--334, 2017.
+
+\bibitem{bjerrum2015metabonomics}
+Jacob~Tveiten Bjerrum, Yulan Wang, Fuhua Hao, Mehmet Coskun, Christian Ludwig,
+  Ulrich G{\"u}nther, and Ole~Haagen Nielsen.
+\newblock Metabonomics of human fecal extracts characterize ulcerative colitis,
+  crohn’s disease and healthy individuals.
+\newblock {\em Metabolomics}, 11:122--133, 2015.
+
+\bibitem{de2015faecal}
+Vicky De~Preter, Kathleen Machiels, Marie Joossens, Ingrid Arijs, Christophe
+  Matthys, Severine Vermeire, Paul Rutgeerts, and Kristin Verbeke.
+\newblock Faecal metabolite profiling identifies medium-chain fatty acids as
+  discriminating compounds in ibd.
+\newblock {\em Gut}, 64(3):447--458, 2015.
+
+\bibitem{kanehisa10new}
+M~Kanehisa, M~Furumichi, M~Tanabe, Y~Sato, and K~Morishima KEGG.
+\newblock New perspectives on genomes, pathways, diseases and drugs., 2017, 45,
+  pp.
+\newblock {\em D353-D361. DOI: https://doi. org/10.1093/nar/gkw1092}.
+
+\bibitem{pang2024metaboanalyst}
+Zhiqiang Pang, Yao Lu, Guangyan Zhou, Fiona Hui, Lei Xu, Charles Viau, Aliya~F
+  Spigelman, Patrick~E MacDonald, David~S Wishart, Shuzhao Li, et~al.
+\newblock Metaboanalyst 6.0: towards a unified platform for metabolomics data
+  processing, analysis and interpretation.
+\newblock {\em Nucleic Acids Research}, page gkae253, 2024.
+
+\end{thebibliography}
